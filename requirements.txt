@@ -1,1 +1,8 @@
 # placeholder
+fastapi
+uvicorn
+openai
+pydantic
+httpx
+python-dotenv
+pytest
